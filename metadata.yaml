@@ -1,0 +1,29 @@
+_repo: Contemporary-Belgian-PoetrySelected-and-Translated-by-Jethro-Bithell_35524
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Bithell, Jethro
+    birthdate: 1878
+    deathdate: 1962
+    gutenberg_agent_id: '32211'
+    url: http://www.gutenberg.org/2009/agents/32211
+description: ''
+gutenberg_issued: '2011-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35524'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French poetry -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Belgian poetry (French) -- Translations into English'
+title: 'Contemporary Belgian Poetry
+
+  Selected and Translated by Jethro Bithell'
+url: http://www.gutenberg.org/ebooks/35524
